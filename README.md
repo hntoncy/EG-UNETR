@@ -7,4 +7,4 @@ Abstract:Liver tumor segmentation is a crucial task in medical image analysis, w
 ![image](https://github.com/NewOneNow/EG-UNETR/assets/128780618/9f04d901-326b-47e6-882a-b3672b90e8ab)
 
 
-Citation：Dongxu Cheng, Zifang Zhou, Jingwen Zhang. EG-UNETR: An edge-guided liver tumor segmentation network based on cross-level interactive transformer[J].Biomedical Signal Processing and Control,2024, 97: 106739.
+Citation：Dongxu Cheng, Zifang Zhou, Jingwen Zhang. EG-UNETR: An edge-guided liver tumor segmentation network based on cross-level interactive transformer[J]. Biomedical Signal Processing and Control,2024, 97: 106739.
