@@ -8,4 +8,14 @@ Abstract:Liver tumor segmentation is a crucial task in medical image analysis, w
 
 # Citation:
 
-Dongxu Cheng, Zifang Zhou, Jingwen Zhang. EG-UNETR: An edge-guided liver tumor segmentation network based on cross-level interactive transformer[J]. Biomedical Signal Processing and Control,2024, 97: 106739.
+Dongxu Cheng, Zifang Zhou, Jingwen Zhang. EG-UNETR: An edge-guided liver tumor segmentation network based on cross-level interactive transformer[J]. Biomedical Signal Processing and Control, 2024, 97: 106739.  
+
+@article{CHENG2024106739,  
+title = {EG-UNETR: An edge-guided liver tumor segmentation network based on cross-level interactive transformer},  
+journal = {Biomedical Signal Processing and Control},  
+volume = {97},  
+pages = {106739},  
+year = {2024},  
+issn = {1746-8094},  
+author = {Dongxu Cheng and Zifang Zhou and Jingwen Zhang},  
+}
